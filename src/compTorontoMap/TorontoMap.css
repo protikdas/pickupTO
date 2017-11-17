@@ -1,0 +1,8 @@
+.TorontoMap {
+    margin: 100px;
+    height: 600px;
+    width: 1000px;
+    background-color: cyan;
+    border: 20px solid navy;
+    border-radius: 20px;
+  }
